@@ -51,15 +51,5 @@
 &trans           &trans    &trans    &trans          &trans                 &trans
             >;
         };
-
-        alt_state_layer {
-            bindings = <
-        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&tog 0  &trans  &trans  &trans          &trans          &mo 2
-            >;
-        };
     };
 };
