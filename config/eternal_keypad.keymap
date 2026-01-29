@@ -28,7 +28,7 @@
          &kp TAB    &kp Q   &kp W         &kp E   &kp R      &kp T   &kp N7
 &kp F13  &kp ENTER  &kp A   &kp S         &kp D   &kp F      &kp G   &kp N8
 &kp F14  &kp LSHFT  &kp Z   &kp X         &kp C   &kp V      &kp B   &kp N9
-&tog 3   &kp LCTRL  &sl 1   &kp NUMBER_0          &kp SPACE          &kp LEFT_ALT
+&mo 2    &kp LCTRL  &sl 1   &kp NUMBER_0          &kp SPACE          &kp LEFT_ALT
             >;
         };
 
